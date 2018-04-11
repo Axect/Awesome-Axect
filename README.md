@@ -26,6 +26,14 @@ Unofficial awesome repo of Axect. There are my favorite tools to develop or to e
 
 * [fzf](https://github.com/junegunn/fzf) : Simple but amazingly effective!
 
+## Gedit
+
+* If you had trouble with gedit has no preference, then type next command
+
+```sh
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides '@a{sv} {"Gtk/ShellShowsAppMenu": <int32 0>}'
+```
+
 ## Image
 
 * [Eye of GNOME](https://wiki.gnome.org/Apps/EyeOfGnome) : Simple is the best.
